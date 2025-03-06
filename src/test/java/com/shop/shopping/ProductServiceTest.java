@@ -1,7 +1,5 @@
 package com.shop.shopping;
 
-import java.util.Optional;
-
 import com.shop.shopping.controllers.products.dtos.ProductDto;
 import com.shop.shopping.controllers.products.models.Product;
 import com.shop.shopping.enums.InventoryStatus;
